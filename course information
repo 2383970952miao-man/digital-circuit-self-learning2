@@ -1,0 +1,14 @@
+##数字电路
+思维：组合逻辑思维，时序逻辑思维，clock-driven system，FSM抽象能力
+#Nand2Tetris
+  ·逻辑门 → CPU → OS
+  ·电路为什么这样组织
+  ·CPU到底是什么
+  ·RTL到底在干嘛
+#CMU 15-150 / 18-240 Digital Logic
+  ·建立时序逻辑理解
+  ·FSM
+  ·同步系统
+#MIT 6.004 Computation Structures
+  ·数字逻辑+体系结构结合
+  ·非常适合建立“系统观”
