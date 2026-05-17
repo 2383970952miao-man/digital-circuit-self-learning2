@@ -1,1 +1,1 @@
-# digital-circuit-self-learning2
+# digital-circuit-self-learning
